@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/akkastreamdemo_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/classes/common/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/main/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/classes/common/main/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/classes/common[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/main/Graph/Graph2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/classes/common/main/Graph/Graph2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/main/Graph/Graph1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/classes/common/main/Graph/Graph1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/main/Graph[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/classes/common/main/Graph[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/main/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/classes/common/main/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/main/Graph/Graph1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/classes/common/main/Graph/Graph1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	common/main/Graph/Graph2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/target/scala-2.12/classes/common/main/Graph/Graph2$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
