@@ -13,5 +13,5 @@ object Sinks {
   lazy val sink: Sink[Any, Future[Done]] = Sink.foreach(println)
 
   lazy val ignore: Sink[Any, Future[Done]] = Sink.ignore
-  
+
 }

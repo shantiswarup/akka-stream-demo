@@ -14,5 +14,5 @@ object SimpleGraph extends ActorEssential {
     Sources.normalSource.via(Flows.flowWithDelay).runWith(Sinks.sink)
 
   lazy val graphWithAsyncProcess =
-    Sources.normalSource.via(Flows.asyncFlow).runWith(Sinks.sink)
+    Sources.normalSource.via(Flows.mapAsyncFlow).runWith(Sinks.sink)
 }
