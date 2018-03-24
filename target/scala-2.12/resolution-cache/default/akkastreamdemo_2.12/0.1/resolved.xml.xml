@@ -4,7 +4,7 @@
 		module="akkastreamdemo_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20180210003940"
+		publication="20180323210740"
 	>
 		<description>
 		AkkaStreamDemo
@@ -32,6 +32,7 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.12.4" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.4" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="org.scalatest" name="scalatest_2.12" rev="3.0.5" conf="test->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-actor_2.12" rev="2.5.9" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-testkit_2.12" rev="2.5.9" conf="test->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-stream_2.12" rev="2.5.9" conf="compile->default(compile)"/>
@@ -39,5 +40,6 @@
 		<dependency org="com.typesafe.akka" name="akka-http_2.12" rev="10.0.11" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-http-testkit_2.12" rev="10.0.11" conf="test->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-http-spray-json_2.12" rev="10.1.0-RC1" conf="compile->default(compile)"/>
+		<dependency org="org.apache.commons" name="commons-email" rev="1.2" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

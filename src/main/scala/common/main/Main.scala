@@ -5,9 +5,11 @@ import java.time.temporal.ChronoUnit
 
 import akka.Done
 import akka.actor.Props
-import common.main.actor.TestActor.Start
-import common.main.actor.{ActorEssential, TestActor}
+import common.main.actor.TestActor1.Start
+import common.main.actor.{ActorEssential, AppSupervisor, TestActor1}
+import common.main.fsm.Queue
 import common.main.graph.GraphWithAsynchronousProcess
+import common.main.mail.TestMail
 
 import scala.collection.immutable
 import scala.collection.parallel.immutable.ParSeq
@@ -60,8 +62,18 @@ object Main extends ActorEssential{
 //    println(res._2)
 //    println("process time:" + time1.until(time2, ChronoUnit.MILLIS))
 
-    val testActor = actorSystem.actorOf(Props[TestActor])
-    testActor ! Start
+//    val testActor = actorSystem.actorOf(Props[TestActor])
+//    testActor ! Start
+
+
+//    var x = new Queue[Int]()
+//    x = x.enqueue(2)
+//    print(x.front)
+//    println(x.rear)
+
+//    val appSupervisor = actorSystem.actorOf(Props[AppSupervisor],"AppSupervisor")
+//    appSupervisor ! "actor1"
+    new TestMail().test
 
   }
 }

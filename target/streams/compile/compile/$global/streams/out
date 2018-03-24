@@ -1,6 +1,2 @@
-[0m[[0m[33mwarn[0m] [0m[0m/media/shantiswarup/CA58CC6758CC543B/IdeaProjects/AkkaStreamDemo/src/main/scala/common/main/Main.scala:7:8: Main has a main method with parameter type Array[String], but common.main.Main will not be a runnable program.[0m
-[0m[[0m[33mwarn[0m] [0m[0m  Reason: main method must have exact signature (Array[String])Unit[0m
-[0m[[0m[33mwarn[0m] [0m[0mobject Main {[0m
-[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
 [0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 2.4.5); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

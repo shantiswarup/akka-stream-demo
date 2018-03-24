@@ -3,7 +3,7 @@ package common.main.fsm
 import akka.actor.Actor
 import akka.stream.scaladsl.Source
 import common.main.actor.ActorEssential
-import common.main.actor.TestActor.Finish
+import common.main.actor.TestActor1.Finish
 import common.main.fsm.PuarQueue.{Completed, Initialize, Process, Processed}
 import common.main.graph.{Flows, Sinks}
 
